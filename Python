@@ -1,0 +1,5 @@
+if __name__ == "__main__":
+
+every python file has a global variable __name__
+  if the file is the exicuted directly value of __name__ is __main__
+  if the module is imported by another module then its __name__ is assigned with its own module name.
